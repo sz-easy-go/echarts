@@ -1,0 +1,19 @@
+{
+  "name": "echarts",
+  "_cacheHeaders": {
+    "ETag": "\"56205499-75fd0\"",
+    "Last-Modified": "Fri, 16 Oct 2015 01:36:25 GMT",
+    "Content-Length": "483280",
+    "Content-Type": "application/zip"
+  },
+  "_release": "85acf570f7",
+  "_source": "git://github.com/shenzhen-easy-go/echarts.git",
+  "_target": "*",
+  "_originalSource": "shenzhen-easy-go/echarts",
+  "homepage": "https://github.com/shenzhen-easy-go/echarts",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "85acf570f7f9c81b0f42680581f4b8a52bb7cdc1"
+  }
+}
